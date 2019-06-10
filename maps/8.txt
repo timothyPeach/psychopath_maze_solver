@@ -1,0 +1,20 @@
+16 18
+34
+XXXXXXXXXXXXXXXX
+Xx__x__x__x__x_X
+X__x__x_x__x__xX
+X_x__x___x__x__X
+Xx_____x__x__x_X
+X__x___xx__x__xX
+X_x__x_x__x_x__X
+Xx______x____x_X
+X__x_xux__xx__xX
+X______x_x___x_X
+Xx_x_x_x__xxx__X
+Xx__x_x__xxex__X
+X_x__x_x__x__x_X
+X_______x__x__xX
+Xx_x_x_x__x__x_X
+X_x___x__x__x__X
+Xx_x_x_x___x__xX
+XXXXXXXXXXXXXXXX

@@ -1,0 +1,9 @@
+15 7
+10
+XXXXXXXXXXXXXXX
+X_____________X
+X_____________X
+X__u___x___e__X
+X_____________X
+X_____________X
+XXXXXXXXXXXXXXX

@@ -1,0 +1,9 @@
+21 7
+32
+XXXXXXXXXXXXXXXXXXXXX
+X_________x____x____X
+X____x_x__x_______x_X
+Xu__x___x__x__x__xx_X
+X____x_x__x____x_xe_X
+X______x____x____x__X
+XXXXXXXXXXXXXXXXXXXXX

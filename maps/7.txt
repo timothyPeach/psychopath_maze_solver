@@ -1,0 +1,19 @@
+22 17
+40
+XXXXXXXXXXXXXXXXXXXXXX
+Xu__________x________X
+X_______x___x________X
+X______x____x________X
+X_____x_____x________X
+X____x______x________X
+X___x__xxxxx__xxxxxxxX
+X__x__x_____________xX
+X_x_x____x____xxx___xX
+X_x____x__x_________xX
+X_x___________xxx___xX
+X__x___x__x_________xX
+X_x_x___x__x__xxx___xX
+X_x__x______x_______xX
+X_x____x__x___xxxx_xxX
+X_____x__x____xe____xX
+XXXXXXXXXXXXXXXXXXXXXX
